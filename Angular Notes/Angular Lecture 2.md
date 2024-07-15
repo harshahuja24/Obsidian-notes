@@ -1,0 +1,2 @@
+started with basic of all the previous lecture did an example now will learn about the shared components line nav and footer and also will learn about interfaces 
+first create a shared MODULE and inside that have an interfaces folder jismie you will have product.interface.ts file hone cahiye 

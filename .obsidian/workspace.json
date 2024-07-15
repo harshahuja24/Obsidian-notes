@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "502397145070a2d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d52d30c790afe454",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ccec05fde696e3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "10ec41a0af12a9c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular Projects/Blog Website Feature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b9419de30188c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular Notes/Angular Lecture 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a17ef4c9f87bb5be",
+    "type": "split",
+    "children": [
+      {
+        "id": "9395f323873d3086",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a43f77b00dd5dbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1310adc6c6c8998",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd2b98e43bf5b8b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2633c05f38c13cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d1286ee03daa43c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16cdafe33f0f0a21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Angular Notes/Angular Lecture 8.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "733cce46be6d455c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Angular Notes/Angular Lecture 8.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2118b834c42731fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5ba0a246ffe89d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Angular Notes/Angular Lecture 8.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7b9419de30188c56",
+  "lastOpenFiles": [
+    "Angular Projects/Register Form Done lets integrate.md",
+    "Angular Projects/Blog Website Feature.md",
+    "Angular Notes/Angular Lecture 7.md",
+    "Angular Notes/Angular Lecture 6.md",
+    "Angular Notes/Angular Lecture 5.md",
+    "Angular Notes/Angular Lecture 8.md",
+    "Untitled.canvas",
+    "Angular Projects",
+    "Angular Notes/Angular Lecture 1.md",
+    "Angular Notes/Angular Lecture 2.md",
+    "Angular Notes/Angular Lecture 3.md",
+    "Angular Notes/Angular Lecture 4.md",
+    "Internship Meet Notes/Day 1.md",
+    "Angular Notes/Untitled",
+    "Internship Meet Notes",
+    "2024-05-09.md",
+    "Angular Notes"
+  ]
+}
